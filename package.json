@@ -1,0 +1,17 @@
+{
+  "name": "playwright_typescript_scenarios_framework",
+  "version": "1.0.0",
+  "description": "This is my playwright project.",
+  "main": "index.js",
+  "scripts": {
+    "codegen": "npx playwright codegen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.2.0"
+  }
+}
